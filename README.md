@@ -7,7 +7,7 @@ This Python sample application uses the [Flask](http://flask.pocoo.org/) framewo
 The code includes several Bootstrap themes from [bootswatch.com](http://bootswatch.com/). You can dynamically change the active theme by setting the THEME environment variable in the [Elastic Beanstalk Management Console](https://console.aws.amazon.com/elasticbeanstalk) or setting OS environment variables imported by web server.
 
 ![](misc/theme-flow.png)
-
+####
 Installed themes include:
 
 * [amelia](http://bootswatch.com/amelia)
